@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/url"
 
-	"github.com/silenceper/wechat/v2/util"
-	"github.com/silenceper/wechat/v2/work/context"
+	"github.com/wuflygo/wechat/v2/util"
+	"github.com/wuflygo/wechat/v2/work/context"
 )
 
 // Oauth auth

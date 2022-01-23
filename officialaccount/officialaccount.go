@@ -3,23 +3,23 @@ package officialaccount
 import (
 	"net/http"
 
-	"github.com/silenceper/wechat/v2/officialaccount/ocr"
+	"github.com/wuflygo/wechat/v2/officialaccount/ocr"
 
-	"github.com/silenceper/wechat/v2/officialaccount/datacube"
+	"github.com/wuflygo/wechat/v2/officialaccount/datacube"
 
-	"github.com/silenceper/wechat/v2/credential"
-	"github.com/silenceper/wechat/v2/officialaccount/basic"
-	"github.com/silenceper/wechat/v2/officialaccount/broadcast"
-	"github.com/silenceper/wechat/v2/officialaccount/config"
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/officialaccount/device"
-	"github.com/silenceper/wechat/v2/officialaccount/js"
-	"github.com/silenceper/wechat/v2/officialaccount/material"
-	"github.com/silenceper/wechat/v2/officialaccount/menu"
-	"github.com/silenceper/wechat/v2/officialaccount/message"
-	"github.com/silenceper/wechat/v2/officialaccount/oauth"
-	"github.com/silenceper/wechat/v2/officialaccount/server"
-	"github.com/silenceper/wechat/v2/officialaccount/user"
+	"github.com/wuflygo/wechat/v2/credential"
+	"github.com/wuflygo/wechat/v2/officialaccount/basic"
+	"github.com/wuflygo/wechat/v2/officialaccount/broadcast"
+	"github.com/wuflygo/wechat/v2/officialaccount/config"
+	"github.com/wuflygo/wechat/v2/officialaccount/context"
+	"github.com/wuflygo/wechat/v2/officialaccount/device"
+	"github.com/wuflygo/wechat/v2/officialaccount/js"
+	"github.com/wuflygo/wechat/v2/officialaccount/material"
+	"github.com/wuflygo/wechat/v2/officialaccount/menu"
+	"github.com/wuflygo/wechat/v2/officialaccount/message"
+	"github.com/wuflygo/wechat/v2/officialaccount/oauth"
+	"github.com/wuflygo/wechat/v2/officialaccount/server"
+	"github.com/wuflygo/wechat/v2/officialaccount/user"
 )
 
 // OfficialAccount 微信公众号相关API

@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/fatih/structs"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/wuflygo/wechat/v2/util"
 	"github.com/spf13/cast"
 )
 
